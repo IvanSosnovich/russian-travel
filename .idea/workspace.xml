@@ -7,23 +7,57 @@
     <expand>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d77f3c37-c54a-4835-8e9a-e8ebb4cab7bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__map-travel/lead__map-travel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__photo/lead__photo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/motivation/__image/motivation__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/motivation/__link/motivation__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/motivation/__subtitle/motivation__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/motivation/motivation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo/__image/photo__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo/photo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__article/place__article.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__image/place__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__link-heading/place__link-heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__link/place__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__website/place__website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/root/root.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/subtitle/subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/text/__number/text__number.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/text/text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/title/title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -49,6 +83,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1jWX2hJhDa2ksJ0gwEWheuPMiwU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -84,7 +121,7 @@
       <updated>1603920617011</updated>
       <workItem from="1603920618651" duration="448000" />
       <workItem from="1603977903499" duration="2000" />
-      <workItem from="1603981469055" duration="8783000" />
+      <workItem from="1603981469055" duration="16402000" />
     </task>
     <servers />
   </component>
