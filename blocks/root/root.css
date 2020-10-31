@@ -1,11 +1,6 @@
 .root {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  align-content: center;
-  justify-content: space-between;
-  flex-direction: column;
-  background-color: #2A2C2F;
-  min-width: 320px ;
+  margin: 0 auto;
+  min-width: 320px;
+  max-width: 1280px;
+  box-sizing: border-box;
 }
-

@@ -1,12 +1,11 @@
 .header {
-  margin: 0 auto;
-  padding: 0;
-  min-width: 288px;
-  color: white;
-  padding-top: 16px;
+  margin: 0;
+  padding: 16px 16px 0 16px;
+
+  box-sizing: border-box;
   display: flex;
-  align-content: center;
+  flex-direction: row;
+  align-items: center;
   justify-content: space-between;
 
-  display: none;
 }
