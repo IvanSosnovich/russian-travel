@@ -7,6 +7,13 @@
 /* root */
 @import url(../blocks/root/root.css);
 
+/* title */
+@import url(../blocks/title/title.css);
+
+/* subtitle */
+@import url(../blocks/subtitle/subtitle.css);
+@import url(../blocks/subtitle/_intro-position/subtitle__intro-position.css);
+
 /* header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__links/header__links.css);
@@ -27,3 +34,8 @@
 @import url(../blocks/lead/__photo/lead__photo.css);
 @import url(../blocks/lead/__map/lead__map.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
+
+/* intro */
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__text-normal/intro__text-normal.css);
