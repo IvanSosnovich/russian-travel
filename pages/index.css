@@ -22,7 +22,7 @@
 @import url(../blocks/header/__lang-link/_active/eader__lang-link_active.css);
 
 /* logo */
-@import url('../blocks/logo/logo.css');
+@import url(../blocks/logo/logo.css);
 
 /* main */
 @import url(../blocks/main/main.css);
@@ -53,3 +53,13 @@
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__link/place__link.css);
+
+/* cover */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__image/cover__image.css);
+@import url(../blocks/cover/__link/cover__link.css);
+
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__link/footer__link.css);

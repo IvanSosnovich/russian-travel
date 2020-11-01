@@ -1,6 +1,7 @@
 .title {
   margin: 0;
   padding: 0;
+  z-index: 1;
 
   min-width: 288px;
   font-family: 'Inter';
