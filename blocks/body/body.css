@@ -4,4 +4,7 @@
   font-family: 'Inter', 'Arial', sans-serif;
   text-rendering: optimizeLegibility;
   background-color: #2a2c2f;
+
+  box-sizing: border-box;
+
 }

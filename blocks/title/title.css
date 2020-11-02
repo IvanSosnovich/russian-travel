@@ -1,13 +1,17 @@
 .title {
   margin: 0;
   padding: 0;
-  z-index: 1;
-
   min-width: 288px;
-  font-family: 'Inter';
+
   font-style: normal;
   font-weight: 900;
   font-size: 32px;
   line-height: 35px;
+}
 
+@media all and (min-width: 768px) {
+  .title {
+  font-size: 54px;
+  line-height: 58px;
+  }
 }

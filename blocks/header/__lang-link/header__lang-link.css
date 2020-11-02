@@ -5,14 +5,24 @@
   color: white;
   text-decoration: none;
 
-  font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 20px;
   text-align: right;
+  height: auto;
+  min-width: 22px;
 }
 
 .header__lang-link:first-child {
   margin-right: 16px;
 }
+
+@media all and (min-width: 768px) {
+  .header__lang-link {
+    font-size: 24px;
+    line-height: 28px;
+    min-width: 30px;
+  }
+}
+

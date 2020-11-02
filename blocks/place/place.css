@@ -3,8 +3,33 @@
   padding: 0;
   margin-top: 49px;
 
- display: flex;
- align-items: flex-start;
- justify-content: center;
- flex-direction: column;
+ display: grid;
+}
+
+
+@media all and (min-width: 768px) {
+  .place {
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-top: 73px;
+
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media all and (min-width: 1024px) {
+  .place {
+    margin-top: 80px;
+    padding-left: 48px;
+    padding-right: 48px;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 16px;
+  }
+}
+
+@media all and (min-width: 1280px) {
+  .place {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }

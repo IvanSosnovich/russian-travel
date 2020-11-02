@@ -1,6 +1,13 @@
 .main {
    margin: 0;
    padding: 0;
-   border: 1px white solid;
    margin-top: 48px;
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   box-sizing: border-box;
  }
+
+
