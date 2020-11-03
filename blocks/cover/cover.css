@@ -26,7 +26,7 @@
   right: 0;
   bottom: 0;
 
-  transition: opacity 0.5s ease-in ;
+  transition: opacity 0.5s ease-in;
   cursor: pointer;
   background-color: #2A2C2F;
   opacity: 0.3;
@@ -45,7 +45,6 @@
 
 @media all and (min-width: 1280px) {
   .cover {
-    min-height: 480px;
     width: 90vw;
     min-height: 740px;
   }
