@@ -1,4 +1,4 @@
-.title {
+.intro__title {
   margin: 0;
   padding: 0;
   min-width: 288px;
@@ -10,7 +10,7 @@
 }
 
 @media all and (min-width: 768px) {
-  .title {
+  .intro__title {
   font-size: 54px;
   line-height: 58px;
   }

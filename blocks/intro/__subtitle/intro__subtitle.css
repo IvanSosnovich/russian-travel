@@ -1,10 +1,10 @@
-.subtitle {
+.intro__subtitle {
   margin: 0;
   padding: 0;
+  margin-top: 40px;
 
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 163%;
 }
-

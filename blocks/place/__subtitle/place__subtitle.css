@@ -1,0 +1,15 @@
+.place__subtitle {
+  padding: 0;
+  margin: 25px 16px 0;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+}
+
+@media all and (min-width: 1024px) {
+  .place__subtitle {
+    font-size: 18px;
+  }
+}
