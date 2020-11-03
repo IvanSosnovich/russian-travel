@@ -19,3 +19,6 @@
 * @import
 * @func calc
 * import fonts
+
+
+## Ссылка на проект: https://ivansosnovich.github.io/russian-travel/index.html
