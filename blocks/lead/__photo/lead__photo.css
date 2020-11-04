@@ -1,8 +1,4 @@
 .lead__photo {
-  margin: 0;
-  padding: 0;
-
-  object-fit: contain;
   height: auto;
   width: 100%;
   max-width: 984px;

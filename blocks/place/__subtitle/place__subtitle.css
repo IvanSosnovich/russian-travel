@@ -8,8 +8,19 @@
   line-height: 163%;
 }
 
+@media all and (min-width: 768px) {
+  .place__subtitle {
+    margin: 0;
+  }
+
+  .place__subtitle:first-of-type {
+    margin-bottom: 25px;
+  }
+}
+
 @media all and (min-width: 1024px) {
   .place__subtitle {
     font-size: 18px;
   }
 }
+

@@ -1,7 +1,5 @@
 .cover__title {
   margin: 0;
-  padding: 0;
-  padding-top: 33px;
 
   font-style: normal;
   font-weight: 900;
@@ -11,7 +9,6 @@
 
 @media all and (min-width: 768px) {
   .cover__title  {
-  padding-top: 115px;
   max-width: 560px;
 
   font-size: 72px;
@@ -19,14 +16,4 @@
   }
 }
 
-@media all and (min-width: 1024px) {
-  .cover__title  {
-  padding-top: 165px;
-  }
-}
 
-@media all and (min-width: 1280px) {
-  .cover__title  {
-  padding-top: 35%;
-  }
-}

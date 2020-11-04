@@ -1,5 +1,4 @@
 .place__website {
-  margin: 0;
   padding: 0;
   display: none;
 }
@@ -7,14 +6,11 @@
 @media all and (min-width: 768px) {
   .place__website {
     display: block;
-    padding-left: 16px;
   }
 }
 
 @media all and (min-width: 1024px) {
   .place__website {
-    display: block;
-    padding-left: 16px;
     align-self: flex-end;
   }
 }

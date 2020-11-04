@@ -8,6 +8,7 @@
   max-width: 984px;
   height: auto;
   box-sizing: border-box;
+  object-fit: contain;
 }
 
 @media all and (min-width: 768px) {
