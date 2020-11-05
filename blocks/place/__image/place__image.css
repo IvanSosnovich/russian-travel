@@ -3,24 +3,3 @@
   padding-bottom: 7px;
 }
 
-@media all and (min-width: 768px) {
-  .place__image {
-    padding: 0;
-    min-width: 340px;
-    min-height: 340px;
-  }
-}
-
-@media all and (min-width: 1024px) {
-  .place__image {
-    min-width: 440px;
-    min-height: 440px;
-  }
-}
-
-@media all and (min-width: 1280px) {
-  .place__image {
-    min-width: 460px;
-    min-height: 460px;
-  }
-}
